@@ -1,0 +1,32 @@
+site_name: Newforma Konekt Help Center
+theme:
+  name: material
+  logo: assets/logo.png
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Basic:
+          - Data Residency and Hosting Regions: getting-started/basic/data-residency-and-hosting-regions.md
+  - General: general/index.md
+  - Hubs & Projects: hubs-projects/index.md
+  - Issues: issues/index.md
+  - Change Management: change-management/index.md
+  - RFIs & Submittals: rfis-submittals/index.md
+  - Emails: emails/index.md
+  - File Manager: file-manager/index.md
+  - Document Control: document-control/index.md
+  - Sharing Center: sharing-center/index.md
+  - 2D/3D Viewer: viewer/index.md
+  - Metrics & Reports: metrics-reports/index.md
+  - Mobile App: mobile-app/index.md
+  - Add-ins: add-ins/index.md
+  - Integrations & API: integrations-api/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
