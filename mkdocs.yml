@@ -12,6 +12,8 @@ nav:
   - General: general/index.md
   - Hubs & Projects: hubs-projects/index.md
   - Issues: issues/index.md
+      - Manage Issues: issues/drawer/manage-issues.md
+      - Manage Attachments and Comments: issues/drawer/manage-attachments-comments.md
   - Change Management: change-management/index.md
   - RFIs & Submittals: rfis-submittals/index.md
   - Emails: emails/index.md
